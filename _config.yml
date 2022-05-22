@@ -1,11 +1,41 @@
-title: Blog of Sholmes 
-remote_theme: chesterhow/tale
+# Site settings
+title:          My Technical Notes
+description:    "My Technical Notes"
+baseurl:        ""
+url:            "https://shanmo.github.io/"
 
-permalink:    /:year-:month-:day/:title
-paginate:     5
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
 
+# Author
+author:
+  name:         Chester How
+  url:          https://chester.how
+  email:        chesterhow@gmail.com
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
 plugins:
-  - jekyll-paginate
-  - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-paginate
   - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
+
+# Disqus (Set to your disqus id)
+disqus:         jekyll-tale
