@@ -1,1 +1,11 @@
-theme: jekyll-theme-cayman
+title: Mo Shan's Notes 
+remote_theme: chesterhow/tale
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
