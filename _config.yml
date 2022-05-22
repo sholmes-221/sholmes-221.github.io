@@ -1,8 +1,8 @@
 # Site settings
-title:          My Technical Notes
-description:    "My Technical Notes"
+title:          My Blog
+description:    "My blog about everything, everywhere, all at once"
 baseurl:        ""
-url:            "https://shanmo.github.io/"
+url:            "https://sholmes-221.github.io/"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
