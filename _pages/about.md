@@ -1,15 +1,8 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "sholmes"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
-
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
-
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+最近读了史蒂芬金的《史蒂芬·金談寫作》[豆瓣](https://book.douban.com/subject/2130016/)，小时候非常喜欢他的鸡皮疙瘩系列。读到他讲童年东拼西凑写东西，给杂志投稿被拒，让我想起了我小时候的经历。又开始有了写作的动力，也是我开通这个博客的最大初衷。金有提到写日记，记录想法的习惯，除此之外我还打算在这个博客存储无处安放的碎碎念。尝试了好几个社媒，但感觉都没啥意思，也不适合总发一些闲言碎语。就是搭建博客花了好久好久，之前搭建博客的方法不管用了，无法生成html渲染，只能看到plain txt，不知道怎么回事...
