@@ -1,5 +1,5 @@
 ---
-https://www3.nhk.or.jp/news/easy/layout: post
+layout: post
 title: "名侦探柯南日历"
 author: "Timothy"
 tags: book 
