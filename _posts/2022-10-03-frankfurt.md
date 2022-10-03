@@ -88,7 +88,6 @@ tags: travel
 
 ![IMG_6311](https://user-images.githubusercontent.com/106022681/193521470-3824e06b-cd00-4c83-8507-45e10517d3dd.jpg)
 ![IMG_6314](https://user-images.githubusercontent.com/106022681/193521542-34997cd2-1133-481b-b817-1bc2309b1315.jpg)
-![IMG_6320](https://user-images.githubusercontent.com/106022681/193524209-203d35bb-359e-4d13-a90a-89226fdb7351.jpg)
 
 ## 机场✈️
 
